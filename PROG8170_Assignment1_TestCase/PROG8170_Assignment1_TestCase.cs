@@ -26,13 +26,12 @@ namespace PROG8170_Assignment1_TestCase
             //Assert
             Assert.AreEqual(length, l);
         }
-
-
+        
         [Test]
 
         public void SetLength_input5_expectLengthEquals6()
         {
-            //Arrange
+            //Error while running
             int length = 6;
             Rectangle testRectangle1 = new Rectangle();
 
