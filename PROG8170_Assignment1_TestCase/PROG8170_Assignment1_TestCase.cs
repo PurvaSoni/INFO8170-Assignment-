@@ -31,7 +31,7 @@ namespace PROG8170_Assignment1_TestCase
 
         public void SetLength_input5_expectLengthEquals6()
         {
-            //Error while running
+            //Arrange
             int length = 6;
             Rectangle testRectangle1 = new Rectangle();
 
