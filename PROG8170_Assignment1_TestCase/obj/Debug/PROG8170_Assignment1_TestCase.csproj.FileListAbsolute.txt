@@ -1,0 +1,24 @@
+E:\Conestoga\SEMESTER 2\Software Quality Assurance Techniques\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\bin\Debug\PROG8170_Assignment1_TestCase.dll
+E:\Conestoga\SEMESTER 2\Software Quality Assurance Techniques\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\bin\Debug\PROG8170_Assignment1_TestCase.pdb
+E:\Conestoga\SEMESTER 2\Software Quality Assurance Techniques\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\bin\Debug\nunit.framework.dll
+E:\Conestoga\SEMESTER 2\Software Quality Assurance Techniques\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\bin\Debug\Prog8170_Assignment1.exe
+E:\Conestoga\SEMESTER 2\Software Quality Assurance Techniques\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\bin\Debug\Prog8170_Assignment1.pdb
+E:\Conestoga\SEMESTER 2\Software Quality Assurance Techniques\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\bin\Debug\Prog8170_Assignment1.exe.config
+E:\Conestoga\SEMESTER 2\Software Quality Assurance Techniques\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\bin\Debug\nunit.framework.xml
+E:\Conestoga\SEMESTER 2\Software Quality Assurance Techniques\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\obj\Debug\PROG8170_Assignment1_TestCase.csprojAssemblyReference.cache
+E:\Conestoga\SEMESTER 2\Software Quality Assurance Techniques\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\obj\Debug\PROG8170_Assignment1_TestCase.csproj.CoreCompileInputs.cache
+E:\Conestoga\SEMESTER 2\Software Quality Assurance Techniques\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\obj\Debug\PROG8170_Assignment1_TestCase.csproj.CopyComplete
+E:\Conestoga\SEMESTER 2\Software Quality Assurance Techniques\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\obj\Debug\PROG8170_Assignment1_TestCase.dll
+E:\Conestoga\SEMESTER 2\Software Quality Assurance Techniques\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\obj\Debug\PROG8170_Assignment1_TestCase.pdb
+E:\Conestoga\SEMESTER 2\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\bin\Debug\PROG8170_Assignment1_TestCase.dll
+E:\Conestoga\SEMESTER 2\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\bin\Debug\PROG8170_Assignment1_TestCase.pdb
+E:\Conestoga\SEMESTER 2\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\bin\Debug\nunit.framework.dll
+E:\Conestoga\SEMESTER 2\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\bin\Debug\Prog8170_Assignment1.exe
+E:\Conestoga\SEMESTER 2\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\bin\Debug\Prog8170_Assignment1.pdb
+E:\Conestoga\SEMESTER 2\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\bin\Debug\Prog8170_Assignment1.exe.config
+E:\Conestoga\SEMESTER 2\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\bin\Debug\nunit.framework.xml
+E:\Conestoga\SEMESTER 2\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\obj\Debug\PROG8170_Assignment1_TestCase.csprojAssemblyReference.cache
+E:\Conestoga\SEMESTER 2\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\obj\Debug\PROG8170_Assignment1_TestCase.csproj.CoreCompileInputs.cache
+E:\Conestoga\SEMESTER 2\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\obj\Debug\PROG8170_Assignment1_TestCase.csproj.CopyComplete
+E:\Conestoga\SEMESTER 2\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\obj\Debug\PROG8170_Assignment1_TestCase.dll
+E:\Conestoga\SEMESTER 2\Prog8170_Assignment1\PROG8170_Assignment1_TestCase\obj\Debug\PROG8170_Assignment1_TestCase.pdb
